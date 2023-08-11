@@ -12,10 +12,10 @@ Express.js, Node.js, MongoDB, Mongoose, MongoDB Atlas (Cloud
 ## Database Connection
 
 create an .env file in the root directory and restore the following env variables. 
-DBURL= <YourDBConnectionURL>
+`DBURL= <YourDBConnectionURL>
 DBNAME= <YourDBName>
 USERNAME= <YourDBUsername>
-PASSWORD= <YourDBPassword>
+PASSWORD= <YourDBPassword>`
 
 ## Deployment
 
