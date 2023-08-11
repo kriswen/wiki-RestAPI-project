@@ -3,7 +3,7 @@
 Build RESTful API endpoints from scratch.
 
 # Technoloy used:
-Express.js, Node.js, MongoDB, Mongoose, MongoDB Atlas (Cloud
+Express.js, Node.js, MongoDB, Mongoose, MongoDB Atlas (Cloud Database)
 
 ## Authors
 
