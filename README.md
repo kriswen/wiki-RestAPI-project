@@ -86,8 +86,13 @@ Example:
 
 `DELETE /articles/`
 
+Example:
+`curl --location --request DELETE 'localhost:3000/articles'`
+
 ## DELETE an article
 
 `DELETE /articles/articleTitle`
 
+Example:
+`curl --location --request DELETE 'localhost:3000/articles/articleTitle'`
 
