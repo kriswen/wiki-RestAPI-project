@@ -15,7 +15,7 @@ const app = express();
 const port = 3000;
 
 // Set the view engine to ejs
-app.set("view engine", "ejs");
+//app.set("view engine", "ejs");
 
 // parsing URL-encoded data using
 //app.use(bodyParser.urlencoded({ extended: true }));
